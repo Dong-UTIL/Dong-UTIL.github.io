@@ -4,7 +4,7 @@ main:
   #  url: /publications/
 
   - title: "News"
-    url: /talks/    
+    url: /cv1/ 
     
   - title: "People"
     url: /portfolio/
