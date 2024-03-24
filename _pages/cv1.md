@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Feb 2024
+======
+* Welcome Dr. Yanqing Kuang (postdoc) to join our research group!
   
 Nov 2023
 ======
