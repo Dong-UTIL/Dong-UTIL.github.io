@@ -84,7 +84,7 @@ November 2021
     
 October 2021
 ======
-* Dr. Dong has received funding from the Illinois Department of Transportation for working on the Development of the Equipment Rental Schedule for Illinois. The PI is her incoming colleague at UH, Dr. Zheyong Bian.
+* Dr. Sasha Dong received the Family Care Award from INFORMS WORMS (Women in OR/MS)
 * Dr. Sasha Dong was invited to present the work about social media sharing during disaster relief at UT Austin Texas Smart Cities Seminar
 * Dr. Sasha Dong chaired the Freight Cluster at the 2021 INFORMS Annual Meeting
 * Dr. Sasha Dong presented at the 2021 INFORMS Annual Meeting about the lateral transshipment work
