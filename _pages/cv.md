@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,63 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<br/><img src='/images/msi.png'><br/>  
+**Farzane and Qingyang** presented our DOE research at MSI MSRDC Research Trainee conference.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<br/><img src='/images/groupdinner.png'><br/>  
+**Group Dinner in Dec 2023** 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<br/><img src='/images/energy.png'><br/>  
+**Hasti, Farzane and Haowei** won the 3rd place in the UH Energy Transition Institute Circular Plastics Challenge.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<br/><img src='/images/cie50.png'><br/>  
+**Sasha** attended the 50th International Conference on Computers and Industrial Engineering in UAE.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<br/><img src='/images/groupphoto.png'><br/>  
+**Group Photo in May 2023** 
+
+<br/><img src='/images/sunnyside.png'><br/>  
+**Farzane,Qingyang and Vincent** visited the Sunnyside community in Houston for our energy resilience project sponsored by the Department of Energy.
+
+<br/><img src='/images/japan.png'><br/>  
+**Sasha** Had a tour around the International Research Institute of Disaster Research and Tohoku University campus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
