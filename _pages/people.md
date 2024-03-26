@@ -44,8 +44,8 @@ redirect_from:
 <br/><img src='/images/yumiao.PNG'><br/>  
 **Dr. Miao Yu**
 * **Postdoc @ UH, 2023**
-* Ph.D. in Industrial Engineering, University of South Florida
-* Placement: Senior Operations Research Analyst, Norfolk Southern Corporation
+* Ph.D. in Transportation Engineering from the University of North Carolina--Charlotte
+* Placement: Associate Professor in the College of Civil and Transportation Engineering at Hohai University
   
 <br/><img src='/images/dairui.PNG'><br/>  
 **Dr. Rui Dai**
