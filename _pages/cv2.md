@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /cv2/
+permalink: /research/
 author_profile: true
 redirect_from:
   - /resume
