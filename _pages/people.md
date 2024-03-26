@@ -152,20 +152,20 @@ redirect_from:
 <br/><img src='/images/zachary.PNG'><br/>
 **Zachary Schneiderman**
 * **EE undergraduate @ TXST, 2017-2018**
-* Placement: Hardware Verification Engineer at AMD.
+* Placement: Hardware Verification Engineer at AMD
 
 <br/><img src='/images/paula.PNG'><br/>
 **Paula Andrea Cruz**
 * **IE undergraduate @ TXST, 2018-2019**
-* Placement: Hardware Verification Engineer at Samsung.
+* Placement: Hardware Verification Engineer at Samsung
 
 <br/><img src='/images/haichao.PNG'><br/>
 **Haichao Chen**
-* **Visting master student** from Southwest Jiaotong University, 2019**
+* **Visting master student** from Southwest Jiaotong University, 2019
 
 <br/><img src='/images/penghui.PNG'><br/>
 **Penghui Guo**
-* **Visting Ph.D. student** from Nanjing University of Aeronautics and Astronautic, 2019**
+* **Visting Ph.D. student** from Nanjing University of Aeronautics and Astronautic, 2019
 
 
 
