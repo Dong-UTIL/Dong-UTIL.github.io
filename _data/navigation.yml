@@ -4,16 +4,16 @@ main:
   #  url: /publications/
 
   - title: "News"
-    url: /news/
+    url: /cv1/
     
   - title: "People"
-    url: /portfolio/
+    url: /people/
     
   - title: "Research"
-    url: /research/    
+    url: /cv2/    
         
   - title: "Education"
-    url: /education/
+    url: /cv3/
     
   - title: "Gallary"
     url: /cv/
