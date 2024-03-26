@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "news"
+title: ""
 permalink: /cv1/
 author_profile: true
 redirect_from:
