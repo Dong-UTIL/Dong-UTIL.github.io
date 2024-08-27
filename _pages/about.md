@@ -13,7 +13,7 @@ redirect_from:
 What's UTIL?
 <br/>
 <br/>
-Dr. Dong is currently an Associate Professor in the [Supply Chain and Logistics Technology program](https://dot.egr.uh.edu/departments/cm/people?l=dong&f=sasha). at the University of Houston. She is leading the UTIL (Urban, Transportation, Informatics and Logistics) Group at the University of Houston. The current research focuses are supply chain and logistics management, disaster resilience, and emergency management. We use optimization, machine learning/deep learning, and simulation. All collaborations in the related fields are welcome.
+Dr. Dong has been appointed as a Junior Chair Professor at the School of Transportation (Ranked #1 Transportation Program in China) at Southeast University through the National Talents Program, where she leads the UTIL (Urban, Transportation, Informatics, and Logistics) Group. Her research focuses on supply chain and logistics management, disaster resilience, and emergency management, utilizing optimization, machine learning/deep learning, and simulation. She welcomes collaborations in these related fields.
 
 
 
