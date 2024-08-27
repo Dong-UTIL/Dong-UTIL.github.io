@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prof. Dong @ UH"
+title                    : "Prof. Dong"
 title_separator          : "-"
 name                     : &name "Sasha Dong"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sasha Zhijie Dong, Ph.D."
   avatar           : "Sasha.PNG"
-  bio              : " University of Houston "
-  location         : " Houston, TX 77204 "
+  bio              : " Southeast University "
+  location         : " Nanjing, CN "
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=t9T1X3UAAAAJ&hl=en"
