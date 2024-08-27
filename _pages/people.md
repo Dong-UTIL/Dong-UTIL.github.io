@@ -10,7 +10,7 @@ redirect_from:
 * **Current Group**
 
 <br/><img src='/images/Sasha.PNG'><br/>
-**Dr. Sasha Dong (PI)** is an Associate Professor at the University of Houston. She received her Ph.D. degree from Cornell University (2015), M.S. degree from Columbia University (2012), and B.S. degree from Nanjing University (2011). Before joining Texas State University as an Assistant Professor of Industrial Engineering, she worked at CSX Transportation and FedEx Freight.
+**Dr. Sasha Dong (PI)** is a Junior Chair Professor at the School of Transportation at Southeast University. She received her Ph.D. degree from Cornell University (2015), M.S. degree from Columbia University (2012), and B.S. degree from Nanjing University (2011). Before joining Texas State University as an Assistant Professor of Industrial Engineering, she worked at CSX Transportation and FedEx Freight.
 
 <br/><img src='/images/xiaohang.PNG'><br/>
 **Dr. Xiaohang Zhu(Postdoc)** graduated from SUNY Buffalo with his Ph.D. degree in Industrial Engineering, and joined the group as a postdoc researcher in Summer 2023.
